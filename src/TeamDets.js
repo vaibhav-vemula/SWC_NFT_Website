@@ -27,7 +27,7 @@ const TeamDets = [
     {
         name:'Anil Kumar N',
         role:'Artist',
-        desc:'He is having a qualification of Master of fine arts. Freelance character artist with over 20+ years of experience in 2d Animation, Character design, Illustration for News magazine, animated movies and games.',
+        desc:'Illustrating history through his signature style of digital illustrations for over 15 years. Anil Kumar has gathered a vast array of patrons and clients. He is having a qualification of Master of fine arts. Over 2 decades experience as Freelance character artist in 2d Animation, Character design, Illustration for News magazine, animated movies and games.',
         image:t4
     },
     {

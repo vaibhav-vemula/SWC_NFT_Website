@@ -16,7 +16,7 @@ function Traits() {
         data-aos-delay="50"
         className="text-lg md:text-xl text-gray-400 pb-10 leading-8"
       >
-        All surprised women has 300+ hand drawn traits! And 10000 backgrounds
+        All surprised women has 300+ hand drawn traits! And 10+ backgrounds
         are different by texture or design or hue.
       </p>
       <p
@@ -49,7 +49,7 @@ function Traits() {
           </tr>
           <tr className="text-left">
             <td className="pr-8">Background</td>
-            <td>– 10000</td>
+            <td>– 10</td>
           </tr>
           <tr className="text-left">
             <td className="pr-8">Lips</td>
