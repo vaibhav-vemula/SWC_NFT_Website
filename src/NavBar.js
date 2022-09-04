@@ -18,7 +18,7 @@ const NavBar = () => {
           <div>
             <div className="flex justify-center md:pt-0 pt-5">
               <a
-                href="https:"
+                href="https://discord.gg/c3nb3JrSCx"
                 className="mr-10"
                 target="blank"
                 rel="noopener noreferrer"
