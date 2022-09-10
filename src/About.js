@@ -42,7 +42,7 @@ const About = () => {
             <a
               target="blank"
               rel="noopener noreferrer"
-              href="https://opensea.io/collection/surprisedwomen"
+              href="https://opensea.io/collection/surprised-women"
               className="hover:shadow-2xl shadow-white"
             >
               <img

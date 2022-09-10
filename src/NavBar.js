@@ -51,7 +51,7 @@ const NavBar = () => {
                 />
               </a>
               <a
-                href="https://opensea.io/collection/surprisedwomen"
+                href="https://opensea.io/collection/surprised-women"
                 target="blank"
                 rel="noopener noreferrer"
               >
