@@ -29,7 +29,7 @@ const NavBar = () => {
                 />
               </a>
               <a
-                href="https://twitter.com/OmprakashRaju4"
+                href="https://twitter.com/SurprisedWomen"
                 className="mr-10"
                 target="blank"
                 rel="noopener noreferrer"
@@ -40,7 +40,7 @@ const NavBar = () => {
                 />
               </a>
               <a
-                href="https://www.instagram.com/surprisedwomen/"
+                href="https://www.instagram.com/om1947/"
                 className="mr-10"
                 target="blank"
                 rel="noopener noreferrer"
